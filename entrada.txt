@@ -1,0 +1,13 @@
+image 300 300
+clear 255 0 0
+color 0 0 255
+circle 150 150 60
+line 50 50 250 250
+color 0 255 0
+fill 160 150
+color 120 255 0
+fill 140 150
+color 0 255 255
+fill 140 150
+
+save test.ppm
